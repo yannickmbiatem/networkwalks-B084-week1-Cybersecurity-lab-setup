@@ -280,7 +280,7 @@ This laboratory is intended strictly for education purposes only.
 **Yannick Obassi Mbiatem**\
 Cybersecurity Intern B084
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: [https://www.linkedin.com/in/yannick-mbiatem-81ba153b6/)
 
 ---
 
