@@ -1,4 +1,4 @@
-# networkwalks-B084-week1-Cybersecurity-lab-setup
+# Networkwalks-B084-week1-Cybersecurity-lab-setup
 Cybersecurity Lab setup
 
 ## 📌 Project Overview
